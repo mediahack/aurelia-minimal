@@ -1,5 +1,5 @@
 {
-  "name": "aurelia-skeleton-navigation",
+  "name": "aurelia-minimal",
   "version": "0.10.2",
   "description": "A starter kit for building a standard navigation-style app with Aurelia.",
   "keywords": [
@@ -16,7 +16,7 @@
   "main": "dist/commonjs/index.js",
   "repository": {
     "type": "git",
-    "url": "http://github.com/aurelia/skeleton-navigation"
+    "url": "https://github.com/stennettm/aurelia-minimal"
   },
   "devDependencies": {
     "aurelia-tools": "^0.1.0",
