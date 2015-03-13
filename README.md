@@ -1,6 +1,6 @@
 # aurelia-minimal
 
-This minimal app is part of the [Aurelia](http://www.aurelia.io/) platform. It sets up a standard navigation-style app using gulp to build your ES6 code with the 6to5 compiler.
+This minimal app is part of the [Aurelia](http://www.aurelia.io/) platform. It sets up Aurelia's bare essentials using gulp.
 
 > To keep up to date on [Aurelia](http://www.aurelia.io/), please visit and subscribe to [the official blog](http://blog.durandal.io/). If you have questions, we invite you to join us on [our Gitter Channel](https://gitter.im/aurelia/discuss).
 
