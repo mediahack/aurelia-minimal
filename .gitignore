@@ -1,0 +1,4 @@
+.idea
+jspm_modules
+node_modules
+dist
