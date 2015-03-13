@@ -1,21 +1,21 @@
-export class Welcome{
-  constructor(){
-    this.heading = 'Welcome to the Aurelia Navigation App!';
-    this.firstName = 'John';
-    this.lastName = 'Doe';
-  }
+export class Welcome {
+    constructor() {
+        this.heading = 'Aurelia Minimal';
+        this.firstName = 'John';
+        this.lastName = 'Doe';
+    }
 
-  get fullName(){
-    return `${this.firstName} ${this.lastName}`;
-  }
+    get fullName() {
+        return `${this.firstName} ${this.lastName}`;
+    }
 
-  welcome(){
-    alert(`Welcome, ${this.fullName}!`);
-  }
+    welcome() {
+        alert(`Welcome, ${this.fullName}!`);
+    }
 }
 
 export class UpperValueConverter {
-  toView(value){
-    return value && value.toUpperCase();
-  }
+    toView(value) {
+        return value && value.toUpperCase();
+    }
 }

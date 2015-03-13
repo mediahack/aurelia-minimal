@@ -1,19 +1,10 @@
 {
   "name": "aurelia-minimal",
   "version": "0.10.2",
-  "description": "A starter kit for building a standard navigation-style app with Aurelia.",
-  "keywords": [
-    "aurelia",
-    "navigation",
-    "skeleton"
-  ],
+  "description": "Aurelia bare essentials.",
   "homepage": "http://aurelia.io",
-  "bugs": {
-    "url": "https://github.com/aurelia/skeleton-navigation/issues"
-  },
   "license": "MIT",
-  "author": "Rob Eisenberg <rob@bluespire.com> (http://robeisenberg.com/)",
-  "main": "dist/commonjs/index.js",
+  "author": "Matthew Stennett",
   "repository": {
     "type": "git",
     "url": "https://github.com/stennettm/aurelia-minimal"
@@ -40,9 +31,7 @@
       "aurelia-dependency-injection": "github:aurelia/dependency-injection@^0.4.5",
       "aurelia-framework": "github:aurelia/framework@^0.8.8",
       "aurelia-http-client": "github:aurelia/http-client@^0.5.5",
-      "aurelia-router": "github:aurelia/router@^0.5.8",
-      "bootstrap": "github:twbs/bootstrap@^3.3.1",
-      "font-awesome": "npm:font-awesome@^4.3.0"
+      "aurelia-router": "github:aurelia/router@^0.5.8"
     }
   }
 }
